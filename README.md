@@ -2,7 +2,7 @@
 ![alt text](https://user-images.githubusercontent.com/176499/96893278-ebc67580-1460-11eb-9530-d5df3a3d65d0.png) 
 
 # About The Project
-Decentralized finance (DeFi) is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies. The system removes the control banks and institutions have on money, financial products, and financial services.
+Decentralized finance ([DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835)) is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies. The system removes the control banks and institutions have on money, financial products, and financial services.
 
 This project demonstrates how to deposit and borrow other tokens. Furthermore, it has a minimalist function to demonstrate how Defi protocol works like Aave, as well as the ability to withdraw.
 
@@ -115,3 +115,6 @@ yarn format
 
 
 # Thank you!
+
+
+
